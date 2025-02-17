@@ -64,7 +64,7 @@ Materials
 | [10 Pcs Single Sided Copper Clad PCB](https://amzn.to/4jXkF4V) | 7     | Amazon |
 | [Low Temp Solder Paste](https://amzn.to/42WLXSY)         | 21    | Amazon |
 | [Brass 0.1mm Stencil Material](https://amzn.to/42XMIes)  | 10    | Amazon |
-| [Gloves Anti-Static](https://amzn.to/3X36cKU)            | —     | Amazon |
+| [Gloves Anti-Static](https://amzn.to/3X36cKU)            | 17     | Amazon |
 | [PCB Stencil Jig Knobs](https://amzn.to/42TYsPh)         | 10    | Amazon |
 | [PCB Stencil Jig Feet](https://amzn.to/4i0Jrzc)           | 10    | Amazon |
 | [PCB Stencil Jig Knurled Nuts](https://amzn.to/3X5jerg)    | 10    | Amazon |
