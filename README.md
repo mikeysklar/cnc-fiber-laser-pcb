@@ -10,6 +10,27 @@ By using the appropriate technology you save time.
 CNCs are excellent for making deep cuts and drilling holes.
 Fiber Lasers excel at making fine pitch traces quickly. 
 
+```
+         +-----------------+
+         |   PCB Material  |
+         +-----------------+
+                  |
+         +--------+--------+
+         |                 |
+         V                 V
++----------------+   +---------------+
+|  CNC Machine   |   | Fiber Laser   |
+| (Edge & Drilling) | (Traces)     |
++----------------+   +---------------+
+         |                 |
+         +--------+--------+
+                  |
+         +-----------------+
+         |   Completed PCB|
+         +-----------------+
+```
+
+
 Materials
 ===
 
