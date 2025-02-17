@@ -15,10 +15,12 @@ Fiber Lasers excel at making fine pitch traces quickly.
 
 This method:
 * avoids charring
-* excess fumes
-* uneven depth cuts
+* avoids excess fumes
+* avoids uneven depth cuts
 * allows for vias
-* works with double sided
+* double sided (for schizzle)
+* frees up valuable laser time
+* avoids overdriving low power fiber lasers
 
 ```
          +-----------------+
@@ -39,6 +41,16 @@ This method:
          |   Completed PCB |
          +-----------------+
 ```
+
+Laser Settings
+===
+|      Type       | Power (%) | Speed (mm/s) | Pass (#x) | Time | Desc                                                                 |
+|:---------------:|:---------:|:------------:|:---------:|:----:|:--------------------------------------------------------------------:|
+| Trace Cut       | 80        | 3000         | 25        | 30s  | just right                                                         |
+| Trace Engrave   | 100       | 6000         | 10        | 12m  | pretty clean                                                       |
+| Stencil Cut     | 80        | 300          | 120       | 2m   | Yep! Looks cooked, but was almost 100% through with no damage to brass |
+| pcb cut         | 100       | 100          | 160       | 5m   | some smoke (use CNC if possible)                                   |
+
 
 
 Materials
