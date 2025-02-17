@@ -20,13 +20,13 @@ Fiber Lasers excel at making fine pitch traces quickly.
          V                 V
 +----------------+   +---------------+
 |  CNC Machine   |   | Fiber Laser   |
-| (Edge & Drilling) | (Traces)     |
+| (Edge & Drilling)  | (Traces)     |
 +----------------+   +---------------+
          |                 |
          +--------+--------+
                   |
          +-----------------+
-         |   Completed PCB|
+         |   Completed PCB |
          +-----------------+
 ```
 
