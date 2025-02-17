@@ -13,14 +13,21 @@ CNCs are excellent for making deep cuts and drilling holes.
 
 Fiber Lasers excel at making fine pitch traces quickly. 
 
-This method:
-* avoids charring
-* avoids excess fumes
-* avoids uneven depth cuts
-* allows for vias
+CNCs are inexpensive. 
+
+Fiber lasers are expensive.
+
+This method avoids:
+* charring
+* excess fumes
+* uneven depth cuts
+* overdriving fiber laser
+
+This method allows for:
+* faster traces due copper / resin size
+* vias
 * double sided (for schizzle)
-* frees up valuable laser time
-* avoids overdriving low power fiber lasers
+* more laser time for other jobs
 
 ```
          +-----------------+
@@ -71,6 +78,7 @@ Materials
 
 Acknowledgements
 ===
-Special thanks to both of these excellent folks for sharing their work in this area
+Special thanks to both of these excellent folks for sharing their open hardware designs in this area.
+
 * [Stephen Hawes Fiber Laser PCB Fab](https://github.com/sphawes/fiber-laser-pcb-fab)
 * [makermoekoe StencilJig3D](https://github.com/makermoekoe/StencilJig3D/tree/main)
