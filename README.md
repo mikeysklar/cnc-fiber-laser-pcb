@@ -4,11 +4,21 @@ CNC + Fiber Laser PCB
 ![Screenshot](pics/engraved.jpeg)
 
 You can make a PCB with a CNC.
+
 You can make a PCB with a Fiber Laser.
-By using the appropriate technology you save time. 
+
+By matching the appropriate technology to the task you can make a high quality small batches of PCBs quickly.
 
 CNCs are excellent for making deep cuts and drilling holes.
+
 Fiber Lasers excel at making fine pitch traces quickly. 
+
+This method:
+* avoids charring
+* excess fumes
+* uneven depth cuts
+* allows for vias
+* works with double sided
 
 ```
          +-----------------+
