@@ -11,11 +11,11 @@ By matching the appropriate technology to the task you can make a high quality s
 
 CNCs are excellent for making deep cuts and drilling holes.
 
-Fiber Lasers excel at making fine pitch traces quickly. 
+Fiber Lasers excel at making fine pitch traces.
 
 CNCs are inexpensive. 
 
-Fiber lasers are expensive.
+Fiber lasers are relatively expensive.
 
 This method avoids:
 * charring
@@ -75,6 +75,15 @@ Materials
 | [PCB Stencil Jig Knobs](https://amzn.to/42TYsPh)         | 10    | Amazon |
 | [PCB Stencil Jig Feet](https://amzn.to/4i0Jrzc)           | 10    | Amazon |
 | [PCB Stencil Jig Knurled Nuts](https://amzn.to/3X5jerg)    | 10    | Amazon |
+
+How about a Solder Mask and Silkscreen
+===
+Applying a coating to protect the PCB is a good idea. Not only does it look amzing, but it will protect the PCB. 
+
+A silkscreen helps with correct component placemen, location and identification information. 
+
+Both of these layers add substantial time and some different materials to apply correctly. I'll hold off on 
+addressing these issues for another video / github.
 
 Acknowledgements
 ===
