@@ -68,3 +68,9 @@ Materials
 | [PCB Stencil Jig Knobs](https://amzn.to/42TYsPh)         | 10    | Amazon |
 | [PCB Stencil Jig Feet](https://amzn.to/4i0Jrzc)           | 10    | Amazon |
 | [PCB Stencil Jig Knurled Nuts](https://amzn.to/3X5jerg)    | 10    | Amazon |
+
+Acknowledgements
+===
+Special thanks to both of these excellent folks for sharing their work in this area
+* [Stephen Hawes Fiber Laser PCB Fab](https://github.com/sphawes/fiber-laser-pcb-fab)
+* [makermoekoe StencilJig3D](https://github.com/makermoekoe/StencilJig3D/tree/main)
