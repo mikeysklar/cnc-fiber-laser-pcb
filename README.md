@@ -85,6 +85,11 @@ A silkscreen helps with correct component placemen, location and identification 
 Both of these layers add substantial time and some different materials to apply correctly. I'll hold off on 
 addressing these issues for another video / github.
 
+Micro-Chorder
+===
+
+[Micro-Chorder](https://github.com/mikeysklar/micro-chorder) - PCB with 4-button STEMMA QT connector uses CircuitPython inlcudes example code.
+
 Acknowledgements
 ===
 Special thanks to both of these excellent folks for sharing their open hardware designs in this area.
