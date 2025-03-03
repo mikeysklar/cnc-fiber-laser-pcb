@@ -11,7 +11,7 @@ By matching the appropriate technology to the task you can make a high quality s
 
 CNCs are excellent for making deep cuts and drilling holes.
 
-Fiber Lasers excel at making fine pitch traces.
+Fiber Lasers excel at making fine pitch traces and stencils.
 
 CNCs are inexpensive. 
 
@@ -29,6 +29,15 @@ This method allows for:
 * double sided (for schizzle)
 * more laser time for other jobs
 
+Video
+===
+
+[![Watch the video](pics/engraved.jpeg)](https://youtu.be/XcUxZo-ayEY?si=XhbG2Iq7S0toqrBo)
+
+
+Process
+===
+
 ```
          +-----------------+
          |   PCB Material  |
@@ -37,10 +46,10 @@ This method allows for:
          +--------+--------+
          |                 |
          V                 V
-+----------------+   +---------------+
-|  CNC Machine   |   | Fiber Laser   |
-| (Edge & Drilling)  | (Traces)     |
-+----------------+   +---------------+
++----------------+   +--------------------+
+|  CNC Machine   |   | Fiber Laser        |
+| (Cut & Drill)  |   | (Traces / Stencil) |
++----------------+   +--------------------+
          |                 |
          +--------+--------+
                   |
