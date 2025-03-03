@@ -31,6 +31,7 @@ This method allows for:
 
 Video
 ===
+** Click Image to Watch **
 
 [![Watch the video](pics/engraved.jpeg)](https://youtu.be/XcUxZo-ayEY?si=XhbG2Iq7S0toqrBo)
 
