@@ -1,7 +1,7 @@
 
 CNC + Fiber Laser PCB 
 
-![Screenshot](pics/engraved.jpeg)
+![Screenshot](pics/soldered-mask.jpeg)
 
 You can make a PCB with a CNC.
 
