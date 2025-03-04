@@ -24,7 +24,7 @@ This method avoids:
 * overdriving fiber laser
 
 This method allows for:
-* faster traces due copper / resin size
+* faster traces 
 * vias
 * double sided (for schizzle)
 * more laser time for other jobs
